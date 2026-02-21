@@ -1,0 +1,5 @@
+{
+  "name": "AI Code Reviewer",
+  "description": "A senior-level AI code reviewer that identifies bugs, suggests improvements, and optimizes your code using Gemini.",
+  "requestFramePermissions": []
+}
